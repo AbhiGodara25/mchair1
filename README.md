@@ -1,1 +1,1 @@
- 
+step 1 download the bin file to change the firmware in it (if you dont have the original file) and upload the new firmware bin file with new version no inside it , DO NOT CHANGE ITS NAME AND DO NOT CHANGE THE TAG. only change the file and its  
